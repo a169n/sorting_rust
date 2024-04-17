@@ -15,7 +15,7 @@ fn main() {
 }
 ```
 
-![Demo Screenshot](./Screenshot(56))
+![Demo Screenshot](Screenshot(56))
 
 ## Examples
 Sorting Numbers
