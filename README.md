@@ -15,7 +15,7 @@ fn main() {
 }
 ```
 
-![Demo Screenshot](Screenshot(56))
+![Demo Screenshot](https://github.com/a169n/sorting_rust/blob/main/Screenshot%20(56).png)
 
 ## Examples
 Sorting Numbers
